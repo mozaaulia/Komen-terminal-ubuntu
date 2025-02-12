@@ -169,7 +169,7 @@ Menampilkan lokasi eksekusi program
 
 ![wich](https://github.com/user-attachments/assets/f602bd31-0dd3-4260-b058-cc699e46e32c)
 
-
+i
 
 
 
