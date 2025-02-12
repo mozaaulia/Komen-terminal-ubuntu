@@ -169,13 +169,91 @@ Menampilkan lokasi eksekusi program
 
 ![wich](https://github.com/user-attachments/assets/f602bd31-0dd3-4260-b058-cc699e46e32c)
 
-i
+stat [file]
+Menampilkan informasi detail tentang file (seperti ukuran, waktu modifikasi, izin).
+
+<img width="209" alt="stat" src="https://github.com/user-attachments/assets/8af848d6-f4dc-4b9d-93ab-b2a53e1cfc06" />
+
+xkill
+Memungkinkan kamu untuk menutup aplikasi dengan mengklik jendela yang ingin ditutup (jika xkill belum terinstal, bisa menginstalnya dengan sudo apt install x11-utils).
+
+<img width="235" alt="xkil" src="https://github.com/user-attachments/assets/f1ab4121-aa11-4537-8a9a-ce6feebfa4b2" />
+
+date 
+menampilkan tanggal dan Waktu saat ini
+
+<img width="150" alt="date" src="https://github.com/user-attachments/assets/f6e15e38-8cc4-4361-ad5e-413f4305f8ba" />
+
+sudo dmesg
+Menampilkan log kernel yang mencatat informasi sistem terkait perangkat keras, boot, dan kernel.
+
+<img width="176" alt="dmsg" src="https://github.com/user-attachments/assets/c51f6873-ae47-4e7b-91c6-8e716aa2186c" />
+
+tar -xzvf [nama_arsip].tar.gz
+Mengekstrak file .tar.gz
+
+<img width="283" alt="tar xzvf" src="https://github.com/user-attachments/assets/07568062-657b-4174-9433-6824c30506fd" />
+
+tar -czvf [nama_arsip].tar.gz [folder/file]
+Mengarsipkan file atau folder menjadi file .tar.gz (kompresi).
+
+<img width="405" alt="tar" src="https://github.com/user-attachments/assets/a8b14f02-eda6-4a3c-961f-eb8f8480a63f" />
+
+sudo passwd [nama_pengguna]
+Mengubah kata sandi untuk pengguna tertentu.
 
 
+<img width="146" alt="sudo pwd" src="https://github.com/user-attachments/assets/0ad2acc5-dd89-4505-8b3e-27582911ea1e" />
 
+kill [PID]
+Menghentikan proses yang berjalan dengan ID proses tertentu (PID).
 
+![kil](https://github.com/user-attachments/assets/71536648-ca94-4c08-8b44-9cd6c0072b9d)
 
+sudo apt-cache search [paket]
+Mencari paket dalam repositori yang tersedia.
 
+<img width="175" alt="sudo apt" src="https://github.com/user-attachments/assets/5521bc3d-160f-4fa0-8405-0788bd0f24ae" />
+
+who
+Menampilkan siapa saja yang sedang login di sistem.
+
+<img width="278" alt="who" src="https://github.com/user-attachments/assets/bd4158cd-fdc8-42c6-86a5-234712d791c3" />
+
+sudo deluser [nama_pengguna]
+Menghapus pengguna dari sistem.
+
+<img width="189" alt="deluser" src="https://github.com/user-attachments/assets/b3e80d37-3a2d-4202-8ef3-5f15333a2e2e" />
+
+history - c
+yang digunakan untuk menampilkan riwayat perintah yang pernah dijalankan dalam sesi terminal tersebut. 
+
+![history c](https://github.com/user-attachments/assets/46134692-0d6e-4abf-ae48-7bf348a4fb79)
+
+htop
+memberikan tampilan dinamis yang memungkinkan pengguna untuk memonitor berbagai parameter sistem secara real-time, seperti penggunaan CPU, memori, swap, dan proses yang sedang berjalan.
+
+![htop](https://github.com/user-attachments/assets/b9e9a4a5-334d-4a5d-9e77-bbad2741e87b)
+
+cd <direktori>
+Mengubah direktori kerja saat ini.
+
+![cd](https://github.com/user-attachments/assets/80066edb-23dd-4ca0-ad04-b8c0558194f3)
+
+vmstat
+digunakan untuk menampilkan statistik sistem terkait memori, proses, paging, block I/O, interrupts, dan CPU.
+
+![vmstat](https://github.com/user-attachments/assets/4dd62e3d-da70-4369-b17b-552273a97120)
+
+sudo fdsik
+digunakan untuk melakukan operasi administratif pada disk, seperti membuat, menghapus, mengubah, atau menampilkan partisi.
+
+![sudo fdsik](https://github.com/user-attachments/assets/4e1081df-c3b9-44a6-bb9a-ebb62e66e8a0)
+
+sudo ip link set
+igunakan untuk melakukan berbagai pengaturan pada antarmuka jaringan, seperti mengaktifkan/menonaktifkan antarmuka, mengubah nama antarmuka, dan mengonfigurasi opsi lainnya.
+
+![sudo ip link set](https://github.com/user-attachments/assets/12316380-fe03-4928-a3d4-35e998cddbb0)
 
 
 
